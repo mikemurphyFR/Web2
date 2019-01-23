@@ -1,6 +1,6 @@
 ---
 ID: 19
-post_title: test
+post_title: ""
 author: mm
 post_excerpt: ""
 layout: page
